@@ -60,4 +60,5 @@ events.trigger("yourEventName", "yourArgument")
 - Add additional validation in your event handlers to verify parameters
 - Consider including resource name in your event names for better organization
 
-## Credits to DevSakal for the original resource, i have simply just refactored the code and provided a little better instructions of use case.
+## Credits to DevSakai for the original resource - https://github.com/DevSekai/TempEvents-OBSELETE-
+## I have simply just refactored the code and provided a little better instructions of use case.
